@@ -1,1 +1,0 @@
-lua require('archboki_dark').colorscheme()
