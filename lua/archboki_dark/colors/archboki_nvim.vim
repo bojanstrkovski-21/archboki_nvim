@@ -1,0 +1,1 @@
+lua require('archboki_nvim').colorscheme()

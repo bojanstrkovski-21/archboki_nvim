@@ -21,7 +21,7 @@ function M.colorscheme()
   vim.cmd 'syntax reset'
 
   vim.o.background = 'dark'
-  vim.g.colors_name = 'archboki_dark'
+  vim.g.colors_name = 'archboki_nvim'
 
   local set = vim.api.nvim_set_hl
 

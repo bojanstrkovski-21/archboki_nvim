@@ -1,4 +1,4 @@
-# archboki_dark.nvim
+# archboki_nvim
 
 A minimal, dark Neovim colorscheme written in Lua.
 
@@ -11,7 +11,7 @@ A minimal, dark Neovim colorscheme written in Lua.
   priority = 1000,
   lazy = false,
   config = function()
-    vim.cmd [[colorscheme archboki_dark]]
+    vim.cmd [[colorscheme archboki_nvim]]
   end,
 }
 ```
@@ -22,7 +22,7 @@ Clone or copy this repo to your `~/.config/nvim/lua/` or any path, and add to yo
 ## Usage
 After installation, set your colorscheme in your `init.lua`:
 ```lua
-vim.cmd [[colorscheme archboki_dark]]
+vim.cmd [[colorscheme archboki_nvim]]
 ```
 
 ## Screenshots
