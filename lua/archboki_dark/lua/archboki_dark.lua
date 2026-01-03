@@ -7,6 +7,7 @@ local colors = {
   green = "#09b2ad",
   yellow = "#ff8800",
   blue = "#32446a", -- darker blue for buffer tabs
+  darkblue = "#141c2a",
   magenta = "#cc9fe9",
   cyan = "#98f6e3",
   gray = "#94a3b8",
